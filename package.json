@@ -1,0 +1,19 @@
+{
+  "name": "slater",
+  "version": "0.8.0",
+  "description": "the slater monorepo",
+  "scripts": {
+    "publish": "NPM_CONFIG_OTP= ./node_modules/.bin/lerna publish",
+    "bootstrap": "lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the-couch/slater.git"
+  },
+  "author": "https://thecouch.nyc",
+  "license": "MIT",
+  "homepage": "https://github.com/the-couch/slater#readme",
+  "devDependencies": {
+    "lerna": "^3.10.6"
+  }
+}
