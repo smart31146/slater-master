@@ -120,10 +120,7 @@ module.exports = {
 }
 ```
 
-#### Assets
-`slater` uses [spaghetti](https://github.com/the-couch/spaghetti) internally to
-compile JS and CSS, using most goodies you'll want from the Babel and PostCSS
-ecosystems.
+
 
 To compile CSS, just import your root stylesheet into your JavaScript index file
 *a la*:
