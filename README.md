@@ -11,7 +11,7 @@ A Shopify theme development toolkit.
 
 ## Features
 - bare-bones base theme
-- JS and CSS compilation via [spaghetti](https://github.com/the-couch/spaghetti)
+- JS and CSS compilation 
 - live reloading
 - easy config
 - simple CLI
@@ -21,8 +21,7 @@ A Shopify theme development toolkit.
 npm i -g @slater/cli
 ```
 
-## Guides
-[Adding Slater to any existing Theme](https://medium.com/the-couch/getting-started-with-slater-bundling-and-deployment-with-any-existing-shopify-theme-d994a17f590f)
+
 
 ## Getting Started
 The easist way to get started with `slater` is `slater init`. `init` outputs a
@@ -222,37 +221,4 @@ your browser window:
 @slater/cli successfully connected
 ```
 
-## In the Wild
 
-List of sites out in the wild currently running some version of Slater. Feel free to PR to add sites if you end up using Slater.
-
-- [Wool & Oak](https://www.woolandoak.com)
-- [Blume](https://www.meetblume.com)
-- [Fur](https://www.furyou.com)
-- [Dims Home](https://www.dimshome.com)
-
-## Contributors
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/estrattonbailey.png?s=150">
-        <br />
-        <a href="https://github.com/estrattonbailey">Eric Bailey</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/iamkevingreen.png?s=150">
-        <br />
-        <a href="https://github.com/iamkevingreen">Kevin Green</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## License
-MIT License
-
-
-
-© The Couch
